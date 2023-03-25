@@ -1,0 +1,53 @@
+------------ 2 Player Statistics in 100 Trials ------------ 
+-Shortest game: 50 
+-Longest game: 178 
+-Average number of turns: 51 
+------------------------------------------------------------ 
+
+------------ 3 Player Statistics in 100 Trials ------------ 
+-Shortest game: 46 
+-Longest game: 196 
+-Average number of turns: 47 
+------------------------------------------------------------ 
+
+------------ 4 Player Statistics in 100 Trials ------------ 
+-Shortest game: 50 
+-Longest game: 270 
+-Average number of turns: 52 
+------------------------------------------------------------ 
+
+------------ 5 Player Statistics in 100 Trials ------------ 
+-Shortest game: 48 
+-Longest game: 525 
+-Average number of turns: 54 
+------------------------------------------------------------ 
+
+------------ 6 Player Statistics in 100 Trials ------------ 
+-Shortest game: 46 
+-Longest game: 229 
+-Average number of turns: 47 
+------------------------------------------------------------ 
+
+------------ 7 Player Statistics in 100 Trials ------------ 
+-Shortest game: 45 
+-Longest game: 299 
+-Average number of turns: 49 
+------------------------------------------------------------ 
+
+------------ 8 Player Statistics in 100 Trials ------------ 
+-Shortest game: 45 
+-Longest game: 296 
+-Average number of turns: 48 
+------------------------------------------------------------ 
+
+------------ 9 Player Statistics in 100 Trials ------------ 
+-Shortest game: 41 
+-Longest game: 301 
+-Average number of turns: 46 
+------------------------------------------------------------ 
+
+------------ 10 Player Statistics in 100 Trials ------------ 
+-Shortest game: 48 
+-Longest game: 280 
+-Average number of turns: 50 
+------------------------------------------------------------ 

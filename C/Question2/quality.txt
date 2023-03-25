@@ -1,0 +1,25 @@
+N	Average Quality
+1	0.8776
+2	0.7959
+3	0.7347
+4	0.6735
+5	0.6122
+6	0.5918
+7	0.5918
+8	0.5918
+9	0.6327
+10	0.6531
+11	0.6531
+12	0.6531
+13	0.6122
+14	0.6122
+15	0.5918
+
+I think around 6 shuffles are needed before the array is shuffled to a good level as it reaches within 0.1 of 0.5 which is considered a good shuffle. 
+I think 10% is a good margin on either side as out of 50 integers which means that about 2 pairs are over the required amount out of 25 pairs. 
+Furthermore 25 is not divisible by 2 so 0.5 is impossible so 0.52 is the best possible so its even closer so that's why I think 6 shuffles is sufficient.
+
+gcc riffle.c quality.c -o demo  
+gcc riffle.c demo_shuffle.c -o demo
+
+run with: ./demo

@@ -1,0 +1,4 @@
+gcc beggar.c single.c -o demo  
+gcc beggar.c byn.c -o demo
+
+./demo
